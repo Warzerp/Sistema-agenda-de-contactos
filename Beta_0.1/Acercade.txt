@@ -5,3 +5,6 @@ archivo que habla sobre esta versión
 3. Tiene una interfaz sencilla pero entendible (abierta a modificaciones)
 
 -- Caracteristicas a añadir --
+* Una interfaz mejor pulida
+* Botón "Acerca De" para información sobre el equipo
+* Un ejecutable .jar
