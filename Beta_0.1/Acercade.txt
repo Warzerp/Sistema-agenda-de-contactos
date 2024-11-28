@@ -1,1 +1,7 @@
 archivo que habla sobre esta versión
+
+1. El programa crea una agenda de contactos para guardar informacion de personas (Nombre, Numero y Correo)
+2. Cuenta con una funcion para agregar, modificar, buscar y eliminar a los contactos de manera rapida y sencilla
+3. Tiene una interfaz sencilla pero entendible (abierta a modificaciones)
+
+-- Caracteristicas a añadir --
