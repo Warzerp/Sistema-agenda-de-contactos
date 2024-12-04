@@ -15,7 +15,27 @@ Este proyecto es una aplicación de escritorio en Java que permite gestionar una
 - Java Development Kit (JDK) 8 o superior.
 - Un entorno de desarrollo integrado (IDE) como Eclipse, IntelliJ IDEA o NetBeans (opcional, pero recomendado).
 
-## Instalación
+## Instalación de Community JDK
+
+Sigue estos pasos para instalar el Community JDK:
+
+1. **Descargar el JDK**:
+   - Ve al sitio web oficial de [Adoptium](https://adoptium.net/) o [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+   - Selecciona la versión de JDK que deseas descargar (recomendamos la última versión estable).
+
+2. **Instalar el JDK**:
+   - Ejecuta el instalador descargado y sigue las instrucciones en pantalla.
+   - Asegúrate de seleccionar la opción para agregar el JDK a la variable de entorno `PATH` durante la instalación.
+
+3. **Verificar la instalación**:
+   - Abre una terminal o símbolo del sistema.
+   - Escribe el siguiente comando y presiona Enter:
+     ```bash
+     java -version
+     ```
+   - Deberías ver la versión de Java instalada.
+
+## Instalación del Proyecto
 
 1. Clona este repositorio en tu máquina local:
    ```bash
