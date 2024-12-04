@@ -35,7 +35,7 @@ Sigue estos pasos para instalar el Community JDK:
      ```
    - Deberías ver la versión de Java instalada.
      
-##Equipo de Trabajo
+## Equipo de Trabajo
 
    -Mauricio Gonzalez: Líder/Product Owner
    -Jhon Mantilla: Scrum Master
