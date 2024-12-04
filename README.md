@@ -37,10 +37,10 @@ Sigue estos pasos para instalar el Community JDK:
      
 ## Equipo de Trabajo
 
-   -Mauricio Gonzalez: Líder/Product Owner
-   -Jhon Mantilla: Scrum Master
-   -Juan Viloria: Miembro del equipo de trabajo
-   -Juan Moreno: Miembro del equipo de trabajo
+   - **Mauricio Gonzalez**: Líder/Product Owner
+   - **Jhon Mantilla**: Scrum Master
+   - **Juan Viloria**: Miembro del equipo de trabajo
+   - **Juan Moreno**: Miembro del equipo de trabajo
 
 ## Instalación del Proyecto
 
