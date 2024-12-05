@@ -10,6 +10,46 @@ Este proyecto es una aplicación de escritorio en Java que permite gestionar una
 - **Eliminar Contacto**: Permite eliminar un contacto de la agenda.
 - **Mostrar Agenda**: Muestra todos los contactos almacenados en la agenda.
 
+## Clases del Proyecto
+
+### Contacto
+
+**Descripción**: Esta clase representa un contacto en la agenda.
+
+- **Atributos**:
+  - `String nombre`: El nombre del contacto.
+  - `String numero`: El número de teléfono del contacto.
+  - `String correo`: La dirección de correo electrónico del contacto.
+
+- **Métodos**:
+  - `String getNombre()`: Devuelve el nombre del contacto.
+  - `void setNombre(String nombre)`: Establece el nombre del contacto.
+  - `String getNumero()`: Devuelve el número de teléfono del contacto.
+  - `void setNumero(String numero)`: Establece el número de teléfono del contacto.
+  - `String getCorreo()`: Devuelve la dirección de correo electrónico del contacto.
+  - `void setCorreo(String correo)`: Establece la dirección de correo electrónico del contacto.
+
+### Agenda
+
+**Descripción**: Esta clase gestiona la colección de contactos.
+
+- **Atributos**:
+  - `List<Contacto> contactos`: Una lista que almacena todos los contactos.
+
+- **Métodos**:
+  - `void agregarContacto(Contacto contacto)`: Agrega un nuevo contacto a la agenda.
+  - `Contacto buscarContacto(String nombre)`: Busca un contacto por su nombre y devuelve el objeto `Contacto` correspondiente.
+  - `void actualizarContacto(Contacto contacto)`: Actualiza la información de un contacto existente.
+  - `void eliminarContacto(String nombre)`: Elimina un contacto de la agenda por su nombre.
+  - `List<Contacto> mostrarAgenda()`: Devuelve una lista de todos los contactos en la agenda.
+
+### Main
+
+**Descripción**: Esta clase contiene el método principal que inicia la aplicación.
+
+- **Métodos**:
+  - `public static void main(String[] args)`: Método principal que inicializa la interfaz gráfica y la lógica de la aplicación.
+
 ## Requisitos
 
 - Java Development Kit (JDK) 8 o superior.
@@ -34,13 +74,6 @@ Sigue estos pasos para instalar el Community JDK:
      java -version
      ```
    - Deberías ver la versión de Java instalada.
-     
-## Equipo de Trabajo
-
-   - **Mauricio Gonzalez**: Líder/Product Owner
-   - **Jhon Mantilla**: Scrum Master
-   - **Luis Viloria**: Miembro del equipo de trabajo
-   - **Juan Moreno**: Miembro del equipo de trabajo
 
 ## Instalación del Proyecto
 
