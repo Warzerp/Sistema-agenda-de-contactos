@@ -1,1 +1,4 @@
+En esta versión se implementa
 
+- base de datos SQL
+- Intefaz gráfica
