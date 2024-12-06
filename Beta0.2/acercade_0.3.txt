@@ -1,1 +1,3 @@
-
+esta version implementa
+- Agregación de la función acerca de 
+-Optimización grafica
