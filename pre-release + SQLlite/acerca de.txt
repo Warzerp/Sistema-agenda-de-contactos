@@ -1,2 +1,6 @@
 #Actualización
 Esta version contiene la versión pre-release + una base de datos SQLlite para guardar los contacto al cerrar el programa
+
+#Nota
+esta versión requiere el driver de sqlite
+
