@@ -1,1 +1,5 @@
-Esta versión incluye una versión estable del código
+Esta versión incluye:
+
+-El proyecto desarrollado en Java --->Requiere driver SQlite
+-El ejecutable Jar
+-El ejecutable exe
