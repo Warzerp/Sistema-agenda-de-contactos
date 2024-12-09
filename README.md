@@ -54,7 +54,7 @@ Este proyecto es una aplicación de escritorio en Java que permite gestionar una
 
 - Java Development Kit (JDK) 8 o superior.
 - Un entorno de desarrollo integrado (IDE) como Eclipse, IntelliJ IDEA o NetBeans (opcional, pero recomendado).
-- Libreria necesaria para el proyecto: SQLLite https://github.com/xerial/sqlite-jdbc/releases
+- Libreria necesaria para el proyecto: https://github.com/xerial/sqlite-jdbc/releases
 
 ## Instalación de Community JDK
 
