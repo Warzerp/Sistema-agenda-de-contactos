@@ -75,7 +75,7 @@ Sigue estos pasos para instalar el Community JDK:
      java -version
      ```
    - Deberías ver la versión de Java instalada.
-##Videos
+## Videos
   - Video en Ingles: https://youtu.be/MHQ_7ihzizY
   - Video Demostrativo: https://youtu.be/8kZhcJ4xcck
 ## Instalación del Proyecto
